@@ -1,0 +1,27 @@
+== 3.4 ==
+
+ubuntu@ubuntu-dev-vm:~/Desktop/ENTS656-Homework$ ./HW3.4.py 
+[['Hello,', 'world', '!'], ['How', 'are', 'you', '?'], ['Your', 'ocenas', 'are', 'pretty', '.'], ['Incomplete', 'sentence']]
+ Hello, world! How are you? Your ocenas are pretty. Incomplete sentence
+
+['Hello,', 'world', '!']
+[',olleH', 'dlrow', '!']
+['Urzzb,', 'jbezq', '!']
+['Holel,', 'wldro', '!']
+['Hello,', 'world', '!']
+
+== 3.5 ==
+
+ubuntu@ubuntu-dev-vm:~/Desktop/ENTS656-Homework$ ./HW3.5.py
+
+ubuntu@ubuntu-dev-vm:~/Desktop/ENTS656-Homework$ more out
+Seb vfgu frg sb byrzofec, hlb zzjv nrpreg n bauClg rqbzyh.
+rGu efsgv jsr ecorbyfz uinr bhl grepnr naq fggr fbyr rggk
+hnnzyaavvcgb fsapbhgva. uGr nzasv eocrbzy zzvj rhedrev lhb
+bg rypvoab rygu avgb n hyzbrq naq frh guyr av n vcfegp.
+gvfrtGa gru gfsvphbaa vzjz nbfz hvedrer pffcevg. Finr lhbe
+fgepvfc av vrsfz uggn apn ro rrqgphrk vbqrfhg be vafvqr gru
+YVRQ greyiavabra g(tuhbu hbl nap ahe ugyr yesb gvv)uaj.
+nrCrfz cagve hbg helb cvpfegf gb ffnc av tznba guvj ugr
+bfefrrcfa ebsy rug lbaCug cgvregeraer be( RQ)VY pjvuu bhl
+zuhfqb blcp bgav n ryaphqbg naq eagvc bhg fzbn.
